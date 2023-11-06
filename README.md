@@ -1,6 +1,6 @@
 # Cryptography Toolbox 💼🔒
 
-Welcome to the Cryptography Toolbox! This open-source repository is your ultimate destination for learning and implementing various cryptographic techniques to secure your data. Whether you're a student, a developer, or simply curious about the world of encryption, this toolbox is here to make cryptography accessible and fun. 🚀
+Welcome to the Cryptography Toolbox! This open-source repository is your ultimate destination for learning and implementing various cryptographic techniques to secure your data. Developed by **Samael3003** and guided by **Prof. Dr. Vijay Mane Sir**, this toolbox is here to make cryptography accessible and fun. 🚀
 
 ## Features 🌟
 
